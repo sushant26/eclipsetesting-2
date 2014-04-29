@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TaskManager</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <description>Manage tasks that are entered at different levels from one central place. This app will allow users to find tasks quickly using search criteria on What Id, Who Id and Status fields. This app will track task completion date. This app also provides customizable security on completed task deletion.</description>
+    <namespacePrefix>qc</namespacePrefix>
+    <types>
+        <members>TaskListCustomController</members>
+        <members>TaskListCustomControllerTest</members>
+        <members>TaskTriggerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TaskList</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>TaskTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Activity.completed_date__c</members>
+        <members>Activity.isLate__c</members>
+        <members>TaskManagerCustomSettings__c.Allow_Admin_To_Delete_Completed_Task__c</members>
+        <members>TaskManagerCustomSettings__c.Allow_Owner_To_Delete_Completed_Task__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>TaskManagerCustomSettings__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Activities</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Tasks</members>
+        <members>Tasks/Tasks_completed_late</members>
+        <name>Report</name>
+    </types>
+    <version>28.0</version>
+</Package>

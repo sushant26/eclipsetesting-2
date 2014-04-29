@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>Definite</article>
+        <plural>false</plural>
+        <value>Leadet</value>
+    </caseValues>
+    <caseValues>
+        <article>Indefinite</article>
+        <plural>false</plural>
+        <value>Et Lead</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Lead</value>
+    </caseValues>
+    <caseValues>
+        <article>Definite</article>
+        <plural>true</plural>
+        <value>Leadsne</value>
+    </caseValues>
+    <caseValues>
+        <article>Indefinite</article>
+        <plural>true</plural>
+        <value>Leads</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Leads</value>
+    </caseValues>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Kundefelt</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>company_field_lead</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Kunde/anlæg</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>company_lead</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Kundenavn (lokal)</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>company_name_local_lead</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead adgang</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_access</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead adgangsniveau</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_access_level</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead advarsel</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_alert</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead tildelingsregel</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead tildelingsregler</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_assignment_rule</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead indhent</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_capture</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead indhentningsgrænseflade</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_capture_interface</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead indhentningsside</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_capture_page</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead oprettet af</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_creator</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead valuta</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_currency</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead tilpas felt</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead tilpas felter</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_custom_field</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead data</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_data</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead afdeling</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_division</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Rediger lead</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_edit</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead felt</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead felter</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_field</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead generelt</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_general</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead historik</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_history</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead historikrapport</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_history_report</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead id</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead-id’er</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_id</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead importhjælp</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_import_wizard</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead information</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_information</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead levetid</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_lifetime</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead listerapport</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_list_report</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead styring</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_management</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead navn</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead navne</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_name</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead ansvarlig</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Leadansvarlige</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_owner</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead ansvarligs alias</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_owner_alias</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead ansvarlig rapport</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_owner_report</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead pluklister</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead pluklister</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_picklist</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead køer</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead køer</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_queue</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead vurdering</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_rating</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead registreringstype</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead registreringstype</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_record_type</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead rapport</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead rapporter</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_report</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead indstilling</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead indstillinger</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_setting</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead opsætning</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_setup</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead Source - Most recent</value>
+        </caseValues>
+        <caseValues>
+            <article>None</article>
+            <plural>true</plural>
+            <value>Lead Source - Most recent</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_source</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead fase-id</value>
+        </caseValues>
+        <gender>Neuter</gender>
+        <name>lead_stage_id</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead status</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_status</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead statusrapport</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_status_report</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Lead visninger</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>lead_views</name>
+    </fields>
+    <fields>
+        <caseValues>
+            <article>None</article>
+            <plural>false</plural>
+            <value>Arb.tlf.</value>
+        </caseValues>
+        <gender>Feminine</gender>
+        <name>phone_lead</name>
+    </fields>
+    <fields>
+        <label>URL til Facebook-billede</label>
+        <name>Fcbk_Image_Url__c</name>
+    </fields>
+    <fields>
+        <label>Facebook-billede</label>
+        <name>Fcbk_Picture__c</name>
+    </fields>
+    <fields>
+        <label>URL til Facebook-profil</label>
+        <name>Fcbk_Profile_Url__c</name>
+    </fields>
+    <fields>
+        <label>Facebook-bruger-id</label>
+        <name>Fcbk_User_Id__c</name>
+    </fields>
+    <fields>
+        <label>Facebook-brugernavn</label>
+        <name>Fcbk_Username__c</name>
+    </fields>
+    <fields>
+        <help><!-- Click on link to change following status --></help>
+        <label>Følger på Twitter</label>
+        <name>Follow_Status__c</name>
+    </fields>
+    <fields>
+        <label>Klout-nummer</label>
+        <name>Klout_Number__c</name>
+    </fields>
+    <fields>
+        <label>Klout-resultat</label>
+        <name>Klout_Score__c</name>
+    </fields>
+    <fields>
+        <label>Oprindelse</label>
+        <name>Origin__c</name>
+        <picklistValues>
+            <masterLabel>Facebook</masterLabel>
+            <translation><!-- Facebook --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Twitter</masterLabel>
+            <translation><!-- Twitter --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label>Twitter-bio</label>
+        <name>Twitter_Bio__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-oprettelsesdato</label>
+        <name>Twitter_Creation_Date__c</name>
+    </fields>
+    <fields>
+        <label>Antal Twitter-interesserede</label>
+        <name>Twitter_Follower_count__c</name>
+    </fields>
+    <fields>
+        <label>Antal Twitter-følgere</label>
+        <name>Twitter_Following_count__c</name>
+    </fields>
+    <fields>
+        <label>URL til Twitter-billede</label>
+        <name>Twitter_Image_Url__c</name>
+    </fields>
+    <fields>
+        <label>Twitters seneste tweet</label>
+        <name>Twitter_Last_tweet__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-placering</label>
+        <name>Twitter_Location__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-billede</label>
+        <name>Twitter_Picture__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-statusantal</label>
+        <name>Twitter_Status_count__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-bruger-id</label>
+        <name>Twitter_User_Id__c</name>
+    </fields>
+    <fields>
+        <label>Twitter-brugernavn</label>
+        <name>Twitter_Username__c</name>
+    </fields>
+    <fields>
+        <label>Fulgt</label>
+        <name>followed__c</name>
+    </fields>
+    <gender>Neuter</gender>
+    <layouts>
+        <layout>SfSocial Lead Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Social Information --></label>
+            <section>Social Information</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label>Hent forfatteroplysninger</label>
+        <name>Get_Author_Info_Massive</name>
+    </webLinks>
+    <webLinks>
+        <label>Hent Klout-resultat</label>
+        <name>Get_Klout_Score</name>
+    </webLinks>
+    <webLinks>
+        <label>Hent Klout-resultat</label>
+        <name>Get_Klout_Score_Massive</name>
+    </webLinks>
+    <webLinks>
+        <label>Hent Twitter-brugernavn</label>
+        <name>Get_Twitter_Username</name>
+    </webLinks>
+    <webLinks>
+        <label>Søg efter Twitter-brugernavn</label>
+        <name>Search_Twitter_Username</name>
+    </webLinks>
+    <webLinks>
+        <label>Hent forfatteroplysninger</label>
+        <name>Update_Twitter_Information</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessType>Shared</accessType>
+    <name>Tasks</name>
+    <publicFolderAccess>ReadWrite</publicFolderAccess>
+    <sharedTo>
+        <allCustomerPortalUsers></allCustomerPortalUsers>
+        <group>All_Customer_Portal_Users</group>
+        <group>AnnaBrodnogClausHAndersen</group>
+        <group>BeritJrgensenrapportgruppe</group>
+        <group>ChristineCareCharlotteJessen</group>
+        <group>DashboardforYKRSagent</group>
+        <group>HanneSLarsenYKA</group>
+        <group>JanRasmussenMariaLibertyLaylaFisk</group>
+        <group>NPPowerGroup</group>
+        <group>PMStatusReport</group>
+        <group>POFUsers</group>
+        <group>SPOCCasesProjectTeam</group>
+        <group>SPOCCasesTestingTeam</group>
+        <group>SPOCCasesUsers</group>
+        <group>SPOCCasesYBUsers</group>
+        <group>YKUsers</group>
+        <group>YKadminreportgroup</group>
+        <group>YouSeeAdministrator</group>
+    </sharedTo>
+</ReportFolder>
